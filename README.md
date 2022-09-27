@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm a back-end developer and Scrum Master working at Equinor! 
+
+I'm also an aspiring full-stack developer, currently teaching myself React. 
+
+Check out my stuff! 
+
 <!--
 **pbullhove/pbullhove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
