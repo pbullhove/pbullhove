@@ -2,7 +2,7 @@
 
 I'm a back-end developer and Scrum Master working at Equinor! 
 
-I'm also an aspiring full-stack developer, currently teaching myself React. 
+I'm also an aspiring full-stack developer, currently teaching myself React and Next.js. 
 
 Check out my stuff! 
 
