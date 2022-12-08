@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Check out my homepage at -> [peterbull.no](peterbull.no)
+Check out my homepage at -> [peterbull.no](https://www.peterbull.no)
 
 I'm a back-end developer and Scrum Master working at Equinor! 
 
