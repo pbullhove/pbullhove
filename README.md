@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Check out my homepage at -> [peterbull.no](peterbull.no)
+
 I'm a back-end developer and Scrum Master working at Equinor! 
 
 I'm also an aspiring full-stack developer, currently teaching myself React and Next.js. 
