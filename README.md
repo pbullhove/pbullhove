@@ -2,9 +2,7 @@
 
 Check out my homepage at -> [peterbull.no](https://www.peterbull.no)
 
-I'm a back-end developer and Scrum Master working at Equinor! 
-
-I'm also an aspiring full-stack developer, currently teaching myself React and Next.js. 
+I'm a .NET and Data Platform Engineer working for Miles. 
 
 Check out my stuff! 
 
